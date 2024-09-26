@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Attavaliativa",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "att01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-att01-Debug-a1626527947e1647c84e.json",
+					"name" : "att01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "att02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-att02-Debug-80aa08b9a46c48c19257.json",
+					"name" : "att02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "att10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-att10-Debug-22c8418d5256474ece57.json",
+					"name" : "att10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "att3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-att3-Debug-b0c18865d9fc4b22cbea.json",
+					"name" : "att3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "att4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-att4-Debug-ee6acfbb386dc541535e.json",
+					"name" : "att4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "att5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-att5-Debug-eaaf970b99fb119037b2.json",
+					"name" : "att5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "att6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-att6-Debug-4a2ad25443e7cc9449e7.json",
+					"name" : "att6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "att7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-att7-Debug-456fd8d6a1a083a4c124.json",
+					"name" : "att7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "att8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-att8-Debug-f076264b01d43ce4ce1e.json",
+					"name" : "att8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "att9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-att9-Debug-f3ea4605e6384ae611c4.json",
+					"name" : "att9",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/migue/OneDrive/Desktop/Projects/C/Attavaliativa/cmake-build-debug",
+		"source" : "C:/Users/migue/OneDrive/Desktop/Projects/C/Attavaliativa"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

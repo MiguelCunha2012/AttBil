@@ -1,0 +1,12 @@
+C:/Users/migue/OneDrive/Desktop/Projects/C/Attavaliativa/cmake-build-debug/CMakeFiles/att01.dir
+C:/Users/migue/OneDrive/Desktop/Projects/C/Attavaliativa/cmake-build-debug/CMakeFiles/att02.dir
+C:/Users/migue/OneDrive/Desktop/Projects/C/Attavaliativa/cmake-build-debug/CMakeFiles/att3.dir
+C:/Users/migue/OneDrive/Desktop/Projects/C/Attavaliativa/cmake-build-debug/CMakeFiles/att4.dir
+C:/Users/migue/OneDrive/Desktop/Projects/C/Attavaliativa/cmake-build-debug/CMakeFiles/att5.dir
+C:/Users/migue/OneDrive/Desktop/Projects/C/Attavaliativa/cmake-build-debug/CMakeFiles/att6.dir
+C:/Users/migue/OneDrive/Desktop/Projects/C/Attavaliativa/cmake-build-debug/CMakeFiles/att7.dir
+C:/Users/migue/OneDrive/Desktop/Projects/C/Attavaliativa/cmake-build-debug/CMakeFiles/att8.dir
+C:/Users/migue/OneDrive/Desktop/Projects/C/Attavaliativa/cmake-build-debug/CMakeFiles/att9.dir
+C:/Users/migue/OneDrive/Desktop/Projects/C/Attavaliativa/cmake-build-debug/CMakeFiles/att10.dir
+C:/Users/migue/OneDrive/Desktop/Projects/C/Attavaliativa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/migue/OneDrive/Desktop/Projects/C/Attavaliativa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
